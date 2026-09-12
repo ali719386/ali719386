@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 **I'm currently working on**<br>
-Full-stack e-commerce platforms with AI-powered features — including a WhatsApp AI shopping assistant and an AI virtual try-on system — built with Django, FastAPI, and React.<br><br>
+Full-stack e-commerce platforms with AI-powered features - including a WhatsApp AI shopping assistant and an AI virtual try-on system - built with Django, FastAPI, and React.<br><br>
 
 👯 **I'm looking to collaborate on**<br>
 AI/ML applications, Computer Vision, and open-source Python & backend development projects.<br><br>
@@ -16,7 +16,7 @@ FastAPI, Django REST Framework, Deep Learning, and AWS (working toward AWS Cloud
 Python Backend Development, REST APIs, Django/FastAPI, AI/ML Projects, and Git/GitHub workflows.<br><br>
 
 ⚡ **Fun fact**<br>
-I started with small Python scripts and internship tasks — today I build end-to-end AI-powered products that combine backend engineering with real-world AI features.
+I started with small Python scripts and internship tasks - today I build end-to-end AI-powered products that combine backend engineering with real-world AI features.
 
 
 ## 🌐 Socials:
