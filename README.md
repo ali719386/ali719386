@@ -1,18 +1,18 @@
 #  About Me:
 
 🔭 **I'm currently working on**<br>
-I'm currently working on
+I'm currently working on:
 Full web applications with React and Next.js, backed by Django and FastAPI, along with AI tools and AI-powered features such as a WhatsApp AI shopping assistant and an AI virtual try-on system for an e-commerce platform.<br><br>
 
 👯 **I'm looking to collaborate on**<br>
 AI/ML applications, Computer Vision, and open-source Python & backend development projects.<br><br>
 
 🤝 **I'm open to**<br>
-I'm open to
+I'm open to:
 Backend/Full-Stack Developer roles (Python, Django, FastAPI, React, Next.js) and AI/ML-driven projects where I can contribute and grow.<br><br>
 
 🌱 **I'm currently learning**<br>
-I'm currently learning
+I'm currently learning:
 Advanced FastAPI and Django REST Framework, Next.js, PostgreSQL database design, Deep Learning, AI agents, and working with LLM models.<br><br>
 
 💬 **Ask me about**<br>
