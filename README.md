@@ -8,11 +8,11 @@ Full web applications with React and Next.js, backed by Django and FastAPI, alon
 AI/ML applications, Computer Vision, and open-source Python & backend development projects.<br><br>
 
 🤝 **I'm open to:**<br>
-I'm open to:
+I'm open to
 Backend/Full-Stack Developer roles (Python, Django, FastAPI, React, Next.js) and AI/ML-driven projects where I can contribute and grow.<br><br>
 
 🌱 **I'm currently learning:**<br>
-I'm currently learning:
+I'm currently learning
 Advanced FastAPI and Django REST Framework, Next.js, PostgreSQL database design, Deep Learning, AI agents, and working with LLM models.<br><br>
 
 💬 **Ask me about:**<br>
